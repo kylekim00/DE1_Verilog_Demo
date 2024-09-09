@@ -5,3 +5,4 @@ Adder controls all the adding process. BintoDec module turns Binary into Decimal
 
 This demo was demonstrated by DE1 FPGA board. there are ten switch inputs, three button inputs, and six 7-seg display. 
 
+![alt text](https://github.com/kylekim00/DE1_Verilog_Demo/blob/main/image1.jpg?raw=true)
